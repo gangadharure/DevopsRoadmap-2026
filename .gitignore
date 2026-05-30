@@ -1,0 +1,10 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Drafts / scratch
+_drafts/
+_scratch/
+*.tmp
