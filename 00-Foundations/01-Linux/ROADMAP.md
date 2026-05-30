@@ -171,6 +171,6 @@ Pick ONE — all are free:
 ## ▶️ Next stop
 
 After 6 weeks here, pick one:
-- **[02-AWS-SAA-C03](../02-AWS-SAA-C03)** if you're choosing AWS
-- **[03-Azure-AZ-104](../03-Azure-AZ-104)** if you're choosing Azure
-- **[04-CKA-Kubernetes](../04-CKA-Kubernetes)** if containers/platform is your path
+- **[AWS Path](../../40-Cloud-Certification-Paths/01-AWS-Path)** if you're choosing AWS
+- **[Azure Path](../../40-Cloud-Certification-Paths/02-Azure-Path)** if you're choosing Azure
+- **[Kubernetes (CKA)](../../10-Containers-Orchestration/02-Kubernetes-CKA)** if containers/platform is your path

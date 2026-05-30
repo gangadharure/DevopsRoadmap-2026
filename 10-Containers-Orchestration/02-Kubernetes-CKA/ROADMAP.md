@@ -5,7 +5,7 @@
 
 **Time:** 10–12 weeks · 1–2 hours/day
 **Exam:** 100% hands-on, live terminal · 2 hours · **66%+ to pass** · **$445 USD** (1 free retake) · aligned with **Kubernetes v1.34** · **2-year validity** · **2 free exam-sim attempts** included
-**Prereq:** Linux fluency ([`01-Linux`](../01-Linux)) · Docker basics
+**Prereq:** Linux fluency ([`Linux`](../../00-Foundations/01-Linux)) · Docker basics
 
 📘 Official: [CNCF CKA page](https://www.cncf.io/training/certification/cka/) · [LF Training](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
@@ -167,6 +167,6 @@
 
 ## ▶️ Next stop
 
-- Layer on platform tools → [`05-DevOps`](../05-DevOps)
+- Layer on platform tools → [`DevOps Engineer`](../../50-Specializations/01-DevOps-Engineer)
 - Specialize → CKS (Security), CKAD (Developer)
 - Add a managed K8s cloud → EKS (AWS), AKS (Azure), GKE (GCP)

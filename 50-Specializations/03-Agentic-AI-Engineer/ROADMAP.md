@@ -4,7 +4,7 @@
 > The hottest engineering role of 2026.
 
 **Time:** 6 months · 1.5–2 hours/day
-**Prereqs:** Python · basics of REST APIs · Linux ([`01-Linux`](../01-Linux)) · helpful but not required: one cloud cert ([`02-AWS-SAA`](../02-AWS-SAA-C03) or [`03-AZ-104`](../03-Azure-AZ-104))
+**Prereqs:** Python · basics of REST APIs · Linux ([`Linux`](../../00-Foundations/01-Linux)) · helpful but not required: one cloud cert ([`AWS Path`](../../40-Cloud-Certification-Paths/01-AWS-Path) or [`Azure Path`](../../40-Cloud-Certification-Paths/02-Azure-Path))
 
 ---
 

@@ -4,7 +4,7 @@
 > A DevOps engineer who treats security as a first-class concern, not an afterthought.
 
 **Time:** 6 months · 1–2 hours/day
-**Prereqs:** [`05-DevOps`](../05-DevOps) or equivalent experience (Linux + cloud + CI/CD + containers + IaC)
+**Prereqs:** [`DevOps Engineer`](../../50-Specializations/01-DevOps-Engineer) or equivalent experience (Linux + cloud + CI/CD + containers + IaC)
 
 ---
 
@@ -158,4 +158,4 @@ A single, publishable repo that includes:
 
 - Specialize in cloud security → AWS Security Specialty / AZ-500 / GCP PCSE
 - Move toward security architecture → CISSP (after 5 yrs exp)
-- Combine with AI → secure LLM apps & agent infrastructure ([`07-Agentic-AI`](../07-Agentic-AI))
+- Combine with AI → secure LLM apps & agent infrastructure ([`Agentic AI Engineer`](../../50-Specializations/03-Agentic-AI-Engineer))

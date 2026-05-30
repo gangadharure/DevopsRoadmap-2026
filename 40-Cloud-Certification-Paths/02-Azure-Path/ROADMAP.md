@@ -5,7 +5,7 @@
 
 **Time:** 10–12 weeks · 1–2 hours/day
 **Exam:** AZ-104 · 100 min · MCQ + interactive lab tasks · **700/1000 to pass** · **$165 USD** · **12-month renewal (free)**
-**Prereq:** Linux fluency ([`01-Linux`](../01-Linux)) · familiarity with PowerShell, Azure CLI, the Azure portal, ARM/Bicep, Microsoft Entra ID
+**Prereq:** Linux fluency ([`Linux`](../../00-Foundations/01-Linux)) · familiarity with PowerShell, Azure CLI, the Azure portal, ARM/Bicep, Microsoft Entra ID
 
 📘 Official: [AZ-104 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104) · [Cert page](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
 
@@ -145,6 +145,6 @@
 
 ## ▶️ Next stop
 
-- Add Kubernetes on Azure → [`04-CKA-Kubernetes`](../04-CKA-Kubernetes) (concepts transfer to AKS)
+- Add Kubernetes on Azure → [`Kubernetes (CKA)`](../../10-Containers-Orchestration/02-Kubernetes-CKA) (concepts transfer to AKS)
 - Specialize → AZ-305 (Solutions Architect Expert), AZ-500 (Security)
-- Full DevOps → [`05-DevOps`](../05-DevOps)
+- Full DevOps → [`DevOps Engineer`](../../50-Specializations/01-DevOps-Engineer)

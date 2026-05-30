@@ -4,7 +4,7 @@
 > Vendor-neutral with optional cloud-specific paths.
 
 **Time:** 6 months · 1–2 hours/day + weekend projects
-**Prereqs:** Linux ([`01-Linux`](../01-Linux)) + one cloud cert ([`02-AWS-SAA`](../02-AWS-SAA-C03) or [`03-AZ-104`](../03-Azure-AZ-104))
+**Prereqs:** Linux ([`Linux`](../../00-Foundations/01-Linux)) + one cloud cert ([`AWS Path`](../../40-Cloud-Certification-Paths/01-AWS-Path) or [`Azure Path`](../../40-Cloud-Certification-Paths/02-Azure-Path))
 
 ---
 
@@ -39,7 +39,7 @@
 
 ### Month 1 — Linux + Git + One Language
 
-- Complete the [Linux roadmap](../01-Linux/ROADMAP.md) (skip if done)
+- Complete the [Linux roadmap](../../00-Foundations/01-Linux/ROADMAP.md) (skip if done)
 - **Git deep dive:** branches, rebase vs merge, cherry-pick, stash, reset vs revert, tags, hooks, `.gitignore`, `.gitattributes`
 - Trunk-based vs GitFlow workflows; PR etiquette
 - Pick **Python** (easiest) or **Go** (fastest): variables, control flow, file I/O, calling shell, HTTP requests
@@ -49,7 +49,7 @@
 
 ### Month 2 — Cloud Foundations
 
-- Pick **one** cloud (AWS for most jobs) → finish [`02-AWS-SAA-C03`](../02-AWS-SAA-C03) or [`03-Azure-AZ-104`](../03-Azure-AZ-104)
+- Pick **one** cloud (AWS for most jobs) → finish [`AWS Path`](../../40-Cloud-Certification-Paths/01-AWS-Path) or [`Azure Path`](../../40-Cloud-Certification-Paths/02-Azure-Path)
 - Focus on: networking (VPC/VNet), IAM/RBAC, compute (EC2/VM, ASG/VMSS), storage (S3/Blob), and DNS
 - **Project:** Manually build a 3-tier web app (ALB → ASG → RDS or App Service → DB) — click through portal once, then recreate via CLI.
 
@@ -58,7 +58,7 @@
 ### Month 3 — Containers & Kubernetes
 
 - **Docker:** Dockerfile best practices, multi-stage builds, image scanning, registries, networks, volumes, `docker compose`
-- **Kubernetes:** complete the [`04-CKA-Kubernetes`](../04-CKA-Kubernetes) Phase 1–4 (core objects, services, storage)
+- **Kubernetes:** complete the [`Kubernetes (CKA)`](../../10-Containers-Orchestration/02-Kubernetes-CKA) Phase 1–4 (core objects, services, storage)
 - **Helm** & **Kustomize** basics
 - Managed K8s on your chosen cloud (EKS or AKS)
 - **Project:** Containerize the app from Month 2, push to ECR/ACR, deploy to EKS/AKS with Helm + an Ingress with TLS.
@@ -149,5 +149,5 @@
 
 ## ▶️ Next stop
 
-- Add security depth → [`06-DevSecOps`](../06-DevSecOps)
-- Move into AI infrastructure → [`07-Agentic-AI`](../07-Agentic-AI)
+- Add security depth → [`DevSecOps Engineer`](../../50-Specializations/02-DevSecOps-Engineer)
+- Move into AI infrastructure → [`Agentic AI Engineer`](../../50-Specializations/03-Agentic-AI-Engineer)

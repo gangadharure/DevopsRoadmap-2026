@@ -5,7 +5,7 @@
 
 **Time:** 10–12 weeks · 1–2 hours/day
 **Exam:** SAA-C03 · 130 min · 65 questions (MCQ + multi-response) · ~720/1000 to pass · $150 USD · 3-year validity
-**Prereq:** Linux fluency (see [`01-Linux`](../01-Linux))
+**Prereq:** Linux fluency (see [`Linux`](../../00-Foundations/01-Linux))
 
 ---
 
@@ -128,5 +128,5 @@
 
 ## ▶️ Next stop
 
-- Add Kubernetes → [`04-CKA-Kubernetes`](../04-CKA-Kubernetes)
-- Become a full DevOps engineer → [`05-DevOps`](../05-DevOps)
+- Add Kubernetes → [`Kubernetes (CKA)`](../../10-Containers-Orchestration/02-Kubernetes-CKA)
+- Become a full DevOps engineer → [`DevOps Engineer`](../../50-Specializations/01-DevOps-Engineer)
