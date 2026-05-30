@@ -5,6 +5,8 @@
 
 Maintained by [**@cloudadhar**](https://instagram.com/cloudadhar) · Updated May 2026
 
+![DevOps Roadmap 2026](./assets/roadmap-2026.png)
+
 ---
 
 ## 🗂️ Repo structure
@@ -67,7 +69,16 @@ Folders are number-prefixed so they sort in **learning order**.
 | Agentic AI Engineer | 6 mo | [50-Specializations/03-Agentic-AI-Engineer](./50-Specializations/03-Agentic-AI-Engineer) |
 
 ### 60 — Interview Prep
-*(coming soon — Linux, Docker, K8s, CI/CD, AWS, Azure, Terraform, scenario-based, system design)*
+| Topic | File |
+|-------|------|
+| Linux | [60-Interview-Prep/01-Linux.md](./60-Interview-Prep/01-Linux.md) |
+| Docker & Kubernetes | [60-Interview-Prep/02-Docker-Kubernetes.md](./60-Interview-Prep/02-Docker-Kubernetes.md) |
+| CI/CD | [60-Interview-Prep/03-CI-CD.md](./60-Interview-Prep/03-CI-CD.md) |
+| AWS | [60-Interview-Prep/04-AWS.md](./60-Interview-Prep/04-AWS.md) |
+| Azure | [60-Interview-Prep/05-Azure.md](./60-Interview-Prep/05-Azure.md) |
+| Terraform / IaC | [60-Interview-Prep/06-Terraform.md](./60-Interview-Prep/06-Terraform.md) |
+| Scenario-based | [60-Interview-Prep/07-Scenario-Based.md](./60-Interview-Prep/07-Scenario-Based.md) |
+| System Design | [60-Interview-Prep/08-System-Design.md](./60-Interview-Prep/08-System-Design.md) |
 
 ---
 
